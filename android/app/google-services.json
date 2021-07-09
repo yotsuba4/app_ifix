@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "172956409662",
+    "project_id": "ifix-7fe49",
+    "storage_bucket": "ifix-7fe49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172956409662:android:a7590ddd54910d9031d66f",
+        "android_client_info": {
+          "package_name": "com.example.app_ifix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172956409662-bik4rqrcoa228116gf1vu8h01cnn3auu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_ifix",
+            "certificate_hash": "a66ae19f7b240788c93de33ebee6994d2ea82699"
+          }
+        },
+        {
+          "client_id": "172956409662-1vqg3ia2mqnoor97l20cnan7q6nscsun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe4VAPLCIa3aKJ0-388COEtr7qOdWLvC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172956409662-1vqg3ia2mqnoor97l20cnan7q6nscsun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
